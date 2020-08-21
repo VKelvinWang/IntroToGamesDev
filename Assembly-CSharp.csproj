@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{19E3DD2F-ED5A-CEE3-3433-709EA05064E2}</ProjectGuid>
+    <ProjectGuid>{AD2CB158-17D0-95F6-4051-342059E146ED}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,33 +63,35 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\LoadAssets.cs" />
+    <Compile Include="Assets\PrintAndHide.cs" />
     <Compile Include="Assets\Test.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Kelvin Wang/Documents/School Work/Spring 2020/Introduction To Games Development/13146271-LabWeek4/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Kelvin Wang/Documents/GitHub/IntroToGamesDev/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
